@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Titanic Survival Prediction in Python - Machine Learning Project
 
 ![Titanic Image](Titanic-survival.png)
 
